@@ -1,0 +1,28 @@
+name: example
+description: Demonstrates how to use the stacked_card_carousel package.
+publish_to: 'none' # Prevent this from being published
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Your app's original dependencies
+  provider: ^6.0.0 # Use a current version
+  http: ^1.0.0 # Use a current version
+
+  # This is the magic!
+  # It tells the example to use the package from
+  # the parent directory (../)
+  swipeable_vertical_carousal:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
