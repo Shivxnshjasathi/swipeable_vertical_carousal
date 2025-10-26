@@ -99,8 +99,8 @@ class FlipperConfig {
 }
 
 class ApiService {
-  final String _mock1Url = "[https://api.mocklets.com/p26/mock1](https://api.mocklets.com/p26/mock1)";
-  final String _mock2Url = "[https://api.mocklets.com/p26/mock2](https://api.mocklets.com/p26/mock2)";
+  final String _mock1Url = "https://your-api/1";
+  final String _mock2Url = "https://your-api/2";
 
   Future<ApiResponse> fetchBills({int itemCount = 9}) async {
     final url = (itemCount <= 2) ? _mock1Url : _mock2Url;
