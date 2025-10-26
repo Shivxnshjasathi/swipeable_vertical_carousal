@@ -2,6 +2,7 @@
 
 A vertically-stacked card carousel with a delightful swipe and auto-scroll animation, perfect for displaying bills, notifications, or other summary cards.
 
+<img width="342" height="244" alt="Screenshot 2025-10-27 at 2 44 54 AM" src="https://github.com/user-attachments/assets/e3580061-a8f5-4999-be10-2a3b885be12a" />
 
 https://github.com/user-attachments/assets/c517c0d6-464c-490f-add7-5f83dbeeeadd
 
@@ -20,7 +21,7 @@ https://github.com/user-attachments/assets/c517c0d6-464c-490f-add7-5f83dbeeeadd
 ## Installation
 
 ```yaml
-dependencies:<img width="347" height="236" alt="Screenshot 2025-10-27 at 2 31 48 AM" src="https://github.com/user-attachments/assets/7a05a082-9af4-4ffe-8bd5-799ae91b4f24" />
+dependencies:
 
   stacked_card_carousel: ^0.0.1
 
