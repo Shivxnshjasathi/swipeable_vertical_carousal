@@ -2,7 +2,12 @@
 
 A vertically-stacked card carousel with a delightful swipe and auto-scroll animation, perfect for displaying bills, notifications, or other summary cards.
 
-[Add a GIF of your carousel here after you run the example!]
+
+<img width="1080" height="2400" alt="Screenshot_1761511836" src="https://github.com/user-attachments/assets/07de3933-6afb-4705-842e-09695378587f" />
+
+
+https://github.com/user-attachments/assets/2f402358-0f87-4896-852b-993247d1db51
+
 
 ## Features
 
